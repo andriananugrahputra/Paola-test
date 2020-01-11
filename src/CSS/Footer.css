@@ -1,0 +1,30 @@
+.iconBtnLinkedin {
+    background-image: url('../Assets/icon-linkedin.png');
+    width: 35px;
+    height: 35px;
+    background-size: cover;
+}
+.iconBtnFacebook {
+    background-image: url('../Assets/icon-facebook.png');
+    width: 35px;
+    height: 35px;
+    background-size: cover;
+}
+.iconBtnTwitter {
+    background-image: url('../Assets/icon-twitter.png');
+    width: 35px;
+    height: 35px;
+    background-size: cover;
+}
+.iconBtnGoogle {
+    background-image: url('../Assets/icon-google.png');
+    width: 35px;
+    height: 35px;
+    background-size: cover;
+}
+.iconBtnInstagram {
+    background-image: url('../Assets/icon-instagram.png');
+    width: 35px;
+    height: 35px;
+    background-size: cover;
+}

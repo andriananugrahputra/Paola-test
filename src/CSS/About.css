@@ -1,0 +1,6 @@
+.backgroundPageAbout {
+    background-image: url('../Assets/background.png');
+    width: fit-content;
+    height: 715px;
+    background-size: cover;
+}
