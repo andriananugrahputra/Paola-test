@@ -1,6 +1,6 @@
 import React from 'react';
 import { Grid, IconButton, Tooltip} from '@material-ui/core';
-import '../CSS/Footer.css'
+import '../CSS/Icons.css'
 
 export default function Footer() {
     return (
